@@ -6,6 +6,7 @@ A simple calendar app for scheduling your work day.
 
 - [Description](#description)
 - [Features](#features)
+- [Mockup](#mockup)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Installation](#installation)
